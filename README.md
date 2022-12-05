@@ -1,0 +1,2 @@
+# pypiLicenseCheker
+pypiのパッケージのライセンスを調べるためのツール
